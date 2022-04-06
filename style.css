@@ -1,0 +1,481 @@
+*{
+    scroll-behavior: smooth;
+}
+.loop{
+    font-family: 'Courier New', Courier, monospace !important; 
+    color: rgb(36, 26, 53);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+div{
+    font-family: sans-serif;
+}
+#first{
+    background-color: rgb(36, 26, 53);
+    padding: 20px;
+    margin: -8px;
+    justify-content: center;
+}
+#second h1{
+    text-shadow:2px 2px black !important;
+}
+.clever{
+    height: 400px;
+    border-radius: 10px;
+}
+#first a{
+    padding: 20px;
+    margin: 20px;
+    text-decoration: none;
+    color: white;
+}
+a:hover{
+    background-color: black;
+}
+.follow{
+    margin-left: 300px !important;
+}
+#second{
+    display: flex;
+    background-image: url(wlip.jpg);
+    width: 100%;
+    height: 500px;
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    flex-wrap: wrap;
+    color: whitesmoke;
+    padding-right: 16px;
+    margin-top: 8px;
+    margin-left: -8px;
+    justify-content: center;
+}
+#second h1{
+    font-size: 40px;
+    margin: 50px;
+}
+.clever{
+    margin-top: 30px;
+    width: 400px;
+}
+#third{
+    margin-top: 50px;
+    display: flex;
+    color: rgb(36, 26, 53);
+    flex-wrap: wrap;
+}
+.jojo{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#four{
+    text-align: center;
+    margin-top: 60px;
+}
+.hoho{
+    border-radius: 20px;
+    background-color: white;
+    margin: 50px;
+    transition: 2s;
+    cursor: pointer;
+    width: 300px;
+    height: 400px;
+}
+.hoho:hover{
+    background-color: rgb(36, 26, 53);
+    color: white;
+}
+.koko{
+    background-color: rgb(243, 243, 243);
+    margin-left: -8px;
+    margin-right: -8px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.hoho:hover #oppo{
+    color: white;
+}
+#oppo{
+    margin-top: 50px;
+    font-size: 50px;
+    color: rgb(36, 26, 53);
+}
+#five h1{
+    text-align: center;
+}
+.middle{
+    margin: 30px;
+    display: flex;
+}
+.fun{
+    font-weight: bold;
+}
+.fu{
+    font-weight: bold;
+    margin-left: -60px;
+}
+.chill{
+    justify-content: center;
+    flex-wrap: wrap;
+    display: flex;
+}
+.kill{
+    margin-left: 200px;
+}
+.container{
+    background-color: gray;
+    width: 500px;
+}
+.bar{
+    background-color: rgb(36, 26, 53);
+    width: 450px;
+    padding: 10px;
+}
+.tar{
+    background-color: rgb(36, 26, 53);
+    width: 400px;
+    padding: 10px;
+}
+.far{
+    background-color: rgb(36, 26, 53);
+    width: 450px;
+    padding: 10px;
+}
+.car{
+    background-color: rgb(36, 26, 53);
+    width: 350px;
+    padding: 10px;
+}
+.war{
+    background-color: rgb(36, 26, 53);
+    width: 300px;
+    padding: 10px;
+}
+#six{
+    text-align: center;
+    margin-top: 200px;
+}
+#fofo{
+    margin: 0px;
+    margin-left: -20px;
+}
+#temp:hover{
+    padding: 0px;
+    margin: 0px;
+    background-color: white !important;
+}
+#fofo:hover{
+    padding: 0px;
+    background-color: rgb(34, 25, 48);
+}
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 620px;
+    margin: auto;
+    margin-bottom: 50px;
+    text-align: center;
+    font-family: arial;
+  }
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  .lies {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  .jell {
+    text-decoration: none;
+    font-size: 22px;
+    color: black;
+  }
+  
+  .lies:hover{
+    opacity: 0.7;
+  }
+  #got{
+      font-size: 25px;
+  }
+  #seven{
+      background-color: rgb(36, 26, 53);
+      margin-right: -8px;
+      color: white;
+      margin-left: -8px;
+      margin-bottom: -8px;
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+  input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    transition: 0.5s;
+    outline: none;
+  }
+  .wow{
+      margin-top:100px;
+  }
+  
+  input[type=text]:focus {
+    border-bottom: 3px solid #555;
+  }
+  .final {
+    width: 600px;  
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: rgb(36, 26, 53);
+    margin: 50px;
+  }
+  select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  input[type=submit] {
+    width: 100%;
+    background-color: rgb(36, 26, 53);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  input[type=submit]:hover {
+    background-color: rgb(34, 25, 48);
+  }
+  ::-webkit-scrollbar{
+      width: 10px;
+  }
+   ::-webkit-scrollbar-button{
+      background: rgb(34, 25, 48);
+      width: 10px;
+  }
+   ::-webkit-scrollbar-thumb{
+       width: 10px;
+       background:purple;
+       border-radius: 10px;
+   }
+   ::-webkit-scrollbar-track{
+      box-shadow: inset 0px 0px 16px black;
+      border-radius: 10px;
+   }
+  .polluted{
+      text-align: center;
+      padding: 20px;
+      background-color: rgb(30, 21, 44);
+      margin: -8px;
+      color: white;
+      font-size: 11px;
+  }
+  /*RESPONSIVE RULES*/
+  @media screen and (max-width:1024px) {
+    #first{
+        margin-top: 1px;
+    }
+    #first a{
+        margin: 10px;
+    }
+    .follow{
+        margin-left: 150px !important;
+    }
+    .clever{
+        width: 500px;
+    }
+    #second{
+        height:850px ;
+    }
+  }
+  @media screen and (max-width:912px) {
+      .looker{
+         margin: 0px;
+         text-align: center;
+      }
+      .kill{
+          margin: 0px;
+          margin-left: 50px;
+      }
+      .middle{
+          margin-left: 0px;
+      }
+  }
+  @media screen and (max-width:820px) {
+      #first a{
+          margin: 5px;
+      }
+      .follow{
+          margin-left:100px !important;
+      }
+      #second{
+          margin-top: -16px !important;
+      }
+      #first{
+          margin-bottom:0px;
+      }
+  }
+  @media screen and (max-width:770px) {
+
+      #second{
+          width: cover;
+          width: 100%;
+          margin-top: -8px;
+          height: 1000px !important;
+          background-size: cover !important;
+      } 
+      .local{
+          text-align: center;
+          margin: auto;
+      }
+      .hobo{
+          margin: auto;
+      }
+ }
+ @media screen and (max-width:540px) {
+     #first a{
+         margin: 0px;
+         font-size: 12px;
+     }
+     .container{
+         width: 300px;
+     }
+     #second{
+         margin-top: 0px !important;
+     }
+     .follow{
+         margin-left: 0px !important;
+     }
+     .bar{
+        background-color: rgb(36, 26, 53);
+        width: 265px;
+        padding: 10px;
+    }
+    .tar{
+        background-color: rgb(36, 26, 53);
+        width: 240px;
+        padding: 10px;
+    }
+    .far{
+        background-color: rgb(36, 26, 53);
+        width: 265px;
+        padding: 10px;
+    }
+    .car{
+        background-color: rgb(36, 26, 53);
+        width: 225px;
+        padding: 10px;
+    }
+    .clever{
+        border-radius: 50%;
+    }
+    .war{
+        background-color: rgb(36, 26, 53);
+        width: 210px;
+        padding: 10px;
+ }
+}
+@media screen and (max-width:420px) {
+    .middle{
+        font-size: 11px;
+    }
+    .container{
+        width: 200px !important;
+    }
+    .bar{
+        background-color: rgb(36, 26, 53);
+        width: 170px;
+        padding: 10px;
+    }
+    .clever{
+        width: 300px;
+    }
+    .tar{
+        background-color: rgb(36, 26, 53);
+        width: 150px;
+        padding: 10px;
+    }
+    .war{
+        background-color: rgb(36, 26, 53);
+        width: 105px !important;
+        padding: 10px;
+    }
+    .fu{
+        margin-left: -45px;
+    }
+    .follow{
+        margin: 0px !important;
+    }
+    #first a{
+        padding: 10px;
+        margin: 0px !important;
+        font-size: 10px !important;
+    }
+    #first a:hover{
+        padding: 10px;
+    }
+    .funny{
+        font-size: 13px !important;
+        margin: 0px !important;
+    }
+    .car{
+        background-color: rgb(36, 26, 53);
+        width: 125px;
+        padding: 10px;
+    }
+}
+@media screen and (max-width:400px) {
+    .hobo{
+        margin: 0px !important;
+    }
+    .jojo{
+        margin: 0px !important;
+    }
+    .local{
+        margin: 0px !important;
+    }
+    #first a{
+        font-size: 8px !important;
+    }
+    .wow{
+        text-align: center;
+    }
+}
+@media screen and (max-width:320px) {
+    #first a{
+        padding:8px !important;
+        text-decoration: none;
+        color: white;
+    }
+    #first a:hover{
+        padding: 8px;
+    }
+    .shit{
+        margin: 0px !important;
+    }
+    .funny{
+        margin-left: 0px !important;
+    }
+      .final {
+        margin: auto;
+      }
+}
