@@ -152,7 +152,7 @@ button{
     flex-wrap: wrap;
 }
 .smile{
-    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(images/pic\ \(12\).jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(pic(12).jpg);
     background-size: 100%;
     color: white;
     height: 250px;
